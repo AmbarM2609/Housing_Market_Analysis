@@ -1,18 +1,12 @@
 
 
 ## Housing Market Analysis – Multi-Perspective Project
-
-This project analyzes housing market data and predicts house prices.
-It then looks at the same houses from different real-world viewpoints:
-
+Instead of just predicting prices, the project explains **who should care and why**.
 * Customer (buyer)
 * Investor
 * Builder
 * Banker
 * City planner
-
-Instead of just predicting prices, the project explains **who should care and why**.
-
 ---
 * Price distribution
 <img width="854" height="473" alt="image" src="https://github.com/user-attachments/assets/7bd0a0aa-aec3-487f-a14d-4b1622bc3fa5" />
@@ -29,10 +23,12 @@ Instead of just predicting prices, the project explains **who should care and wh
 * Neighborhood inequality
 <img width="1051" height="858" alt="image" src="https://github.com/user-attachments/assets/99cd1ff8-b7cd-4675-b52a-f046641ef2af" />
 
-
+---
 The market is dominated by fairly priced, middle-class homes typically selling for around $150k. While most houses are affordable, building quality is the main reason prices shoot up; luxury homes (quality levels 9–10) see massive price jumps compared to standard builds. Location also plays a huge role, with neighborhoods like NoRidge and NridgHt being significantly more expensive than areas like MeadowV. Finally, while most homes are priced correctly, investors can still find rare bargains that sell for less than their predicted value.
 ---
+Kaggle :- https://www.kaggle.com/code/ai21ambarmestry/housing-market-decisions-making
 
+---
 ### How the project works
 
 #### 1. Data loading
