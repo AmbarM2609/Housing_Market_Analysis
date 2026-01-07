@@ -1,0 +1,12 @@
+**pycache**/
+*.pyc
+*.pyd
+*.so
+
+venv/
+.venv/
+
+.pytest_cache/
+
+.vscode/     
+.idea/
